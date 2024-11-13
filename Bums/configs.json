@@ -8,5 +8,10 @@
   "howManyBonusChanceUpgrade": 10,
   "howManyBonusRatioUpgrade": 10,
   "maxCardPrice": 1000000,
-  "combo": "101,102,103"
+  "combo": "101,102,103",
+  "isDoTasks": false,
+  "howManyTapsInOneTime": [10, 100],
+  "isUpgradeCards": true,
+  "infinityTapping": true,
+  "trackingTapPoints": true
 }

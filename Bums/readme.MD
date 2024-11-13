@@ -34,6 +34,7 @@ To get started with the bot, follow these steps:
 ```json
 {
   "isDoTasks": false,
+  "isBuyBoosts": true,
   "howManyTapsInOneTime": [10, 100],
   "isUpgradeCards": true,
   "infinityTapping": true,

@@ -33,6 +33,11 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "isDoTasks": false,
+  "howManyTapsInOneTime": [10, 100],
+  "isUpgradeCards": true,
+  "infinityTapping": true,
+  "trackingTapPoints": true,
   "maxCardPrice": 1000000000,
   "howManyEnergyUpgrade": 1,
   "howManyRecoveryUpgrade": 1,

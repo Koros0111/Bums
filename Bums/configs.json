@@ -10,6 +10,7 @@
   "maxCardPrice": 1000000,
   "combo": "101,102,103",
   "isDoTasks": false,
+  "isBuyBoosts": true,
   "howManyTapsInOneTime": [10, 100],
   "isUpgradeCards": true,
   "infinityTapping": true,

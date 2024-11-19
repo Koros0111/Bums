@@ -2,6 +2,8 @@
   "limit": 100,
   "countdown": 300,
   "country_time": "en-US",
+  "delayEachAccount": [5, 8],
+  "isSkipInvalidProxy": false,
   "howManyEnergyUpgrade": 10,
   "howManyRecoveryUpgrade": 10,
   "howManyTapUpgrade": 10,

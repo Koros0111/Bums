@@ -45,6 +45,8 @@ To get started with the bot, follow these steps:
   "howManyTapUpgrade": 1,
   "howManyBonusChanceUpgrade": 1,
   "howManyBonusRatioUpgrade": 1,
+  "delayEachAccount": [5, 8],
+  "isSkipInvalidProxy": false,
   "combo": "101,102,103", //read in comboList.json to fill your correct today combo
   "limit": 5, //number of accounts run in a row
   "countdown": 300, //time to restarts all the accounts - count by seconds

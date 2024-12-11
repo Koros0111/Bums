@@ -81,6 +81,14 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
+### 5. `answers.txt` 🌐 - Fill with youtube's tasks answers.
+
+```txt
+xxx...
+xxx...
+xxx...
+```
+
 💡 Usage:
 
 > You need to `cd` to the file after extract it

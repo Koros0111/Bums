@@ -11,10 +11,11 @@
   "howManyBonusRatioUpgrade": 10,
   "maxCardPrice": 1000000,
   "combo": "101,102,103",
-  "isDoTasks": false,
-  "isBuyBoosts": true,
+  "isDoTasks": true,
   "howManyTapsInOneTime": [10, 100],
+  "isBuyBoosts": true,
   "isUpgradeCards": true,
   "infinityTapping": true,
-  "trackingTapPoints": true
+  "trackingTapPoints": true,
+  "openNoelGifts": true
 }

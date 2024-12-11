@@ -33,25 +33,27 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "isDoTasks": false,
-  "isBuyBoosts": true,
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "delayEachAccount": [5, 8],
+  "isSkipInvalidProxy": false,
+  "howManyEnergyUpgrade": 10,
+  "howManyRecoveryUpgrade": 10,
+  "howManyTapUpgrade": 10,
+  "howManyBonusChanceUpgrade": 10,
+  "howManyBonusRatioUpgrade": 10,
+  "maxCardPrice": 1000000,
+  "combo": "101,102,103",
+  "isDoTasks": true,
   "howManyTapsInOneTime": [10, 100],
+  "isBuyBoosts": true,
   "isUpgradeCards": true,
   "infinityTapping": true,
   "trackingTapPoints": true,
-  "maxCardPrice": 1000000000,
-  "howManyEnergyUpgrade": 1,
-  "howManyRecoveryUpgrade": 1,
-  "howManyTapUpgrade": 1,
-  "howManyBonusChanceUpgrade": 1,
-  "howManyBonusRatioUpgrade": 1,
-  "delayEachAccount": [5, 8],
-  "isSkipInvalidProxy": false,
-  "combo": "101,102,103", //read in comboList.json to fill your correct today combo
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "openNoelGifts": true
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ -
@@ -82,6 +84,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node 1`
+> To run the bot, use the following command: `cd bums-main/bums; node 1`
 
 🎇Enjoy!

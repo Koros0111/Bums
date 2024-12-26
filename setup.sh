@@ -30,16 +30,27 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-    "timeZone": "en-US",
-    "rotateProxy": false,
-    "skipInvalidProxy": false,
-    "proxyRotationInterval": 2,
-    "delayEachAccount": [5, 8],
-    "timeToRestartAllAccounts": 300,
-    "howManyAccountsRunInOneTime": 10,
-    "doTasks": true,
-    "playGames": true,
-    "referralCode": ""
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "delayEachAccount": [5, 8],
+  "isSkipInvalidProxy": false,
+  "howManyEnergyUpgrade": 10,
+  "howManyRecoveryUpgrade": 10,
+  "howManyTapUpgrade": 10,
+  "howManyBonusChanceUpgrade": 10,
+  "howManyBonusRatioUpgrade": 10,
+  "maxCardPrice": 1000000,
+  "combo": "101,102,103",
+  "isDoTasks": true,
+  "howManyTapsInOneTime": [10, 100],
+  "isBuyBoosts": true,
+  "isUpgradeCards": true,
+  "infinityTapping": true,
+  "trackingTapPoints": true,
+  "openNoelGifts": true,
+  "doSpin": true,
+  "referralCode": "OVMEplvN"
 }
 EOL
 }
@@ -55,7 +66,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    name BOT SETUP AND RUN SCRIPT"
+    echo "    Bums BOT SETUP AND RUN SCRIPT"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
@@ -115,7 +126,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            node bot
+            cd bums && node bot
             read -p "Press Enter to continue..."
             ;;
         4)

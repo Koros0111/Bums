@@ -17,5 +17,7 @@
   "isUpgradeCards": true,
   "infinityTapping": true,
   "trackingTapPoints": true,
-  "openNoelGifts": true
+  "openNoelGifts": true,
+  "doSpin": true,
+  "referralCode": "OVMEplvN"
 }

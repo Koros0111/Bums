@@ -66,7 +66,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    Bums BOT SETUP AND RUN SCRIPT"
+    echo "    Bums BOT SETUP AND RUN SCRIPT by @MeoMunDep"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"

@@ -98,6 +98,6 @@ xxx...
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd bums-main/bums; node 1`
+> To run the bot, use the following command: `cd bums-main/bums; node meomundep`
 
 🎇Enjoy!

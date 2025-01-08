@@ -82,7 +82,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd bums && node meomundep
+node meomundep
 pause
 goto MENU
 

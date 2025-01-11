@@ -62,12 +62,20 @@ To get started with the bot, follow these steps:
 
 ```
 
-### 2. `datas.txt` 🗂️ -
+### 2. `datas.txt` 🗂️ - Get data from [here](https://t.me/KeoAirDropFreeNe/257/6879).
 
 ```txt
 query_id.../user...
 query_id.../user...
 query_id.../user...
+```
+
+### 2. `tokens.txt` 🗂️ - Do not touch this file, if the data is expired please retrieve new "query_id.../user...", that's all do not notify nonsense error in group :)
+
+```txt
+ey...
+ey...
+ey...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.

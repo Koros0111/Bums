@@ -5,6 +5,9 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' 
 
+echo -ne "\033]0;BUms Bot by @MeoMunDep\007"
+
+
 print_green() {
     echo -e "${GREEN}$1${NC}"
 }
@@ -118,7 +121,7 @@ while true; do
             clear
             print_yellow "Installing/Updating Node.js dependencies..."
             cd "$MODULES_DIR"
-            npm install user-agents axios colors p-limit https-proxy-agent socks-proxy-agent crypto-js ws uuid xlsx readline-sync
+            npm install user-agents axios colors https-proxy-agent socks-proxy-agent form-data
             cd - > /dev/null
             print_green "Dependencies installation completed!"
             read -p "Press Enter to continue..."
@@ -134,7 +137,7 @@ while true; do
 
             check_configs
 
-            for file in datas.txt wallets.txt proxies.txt tokens.txt; do
+            for file in datas.txt proxies.txt tokens.txt; do
                 if [ ! -f "$file" ]; then
                     touch "$file"
                     print_green "Created $file"

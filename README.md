@@ -1,16 +1,8 @@
 📞 Contact
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
-
-> If you encounter any issues or have questions, feel free to reach out:
-
-- Contact: [Link](t.me/MeoMunDep)
-- Group: [Link](t.me/KeoAirDropFreeNe)
-- Channel: [Link](t.me/KeoAirDropFreeNee)
-
-> > > Help me with your referral [Link](https://t.me/bums/app?startapp=ref_OVMEplvN-go_ganginfo_1854937255193260033
-)
+> > > Help me with your referral [Link](https://t.me/bums/app?startapp=ref_OVMEplvN-go_ganginfo_1854937255193260033)
 
 ## 🚀 Getting Started
 
@@ -26,7 +18,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-proxy-agent
+   npm i user-agents cloudscraper axios colors https-proxy-agent socks-proxy-agent
    ```
 
 2. **Prepare Configuration Files:**
@@ -62,7 +54,8 @@ To get started with the bot, follow these steps:
 
 ```
 
-### 2. `datas.txt` 🗂️ - Get data from [here](https://t.me/KeoAirDropFreeNe/257/6879).
+### 2. `datas.txt` 🗂️ - [Get it from here](https://t.me/KeoAirDropFreeNee/1586)
+
 
 ```txt
 query_id.../user...
@@ -91,11 +84,17 @@ abc...xyz
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
 
+- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
+
 ```txt
-http://user:password@host:port
-https://user:password@host:port
-socks4://user:password@host:port
-socks5://user:password@host:port
+http://host:port
+https://host:port
+socks4://host:port
+socks5://host:port
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port
 ```
 
 ### 5. `answers.txt` 🌐 - Fill with youtube's tasks answers.
@@ -110,5 +109,15 @@ xxx...
 
 > You need to `cd` to the file after extract it
 > To run the bot, use the following command: `cd bums-main/bums; node meomundep`
+
+## 📌 Contact & Support
+
+> - **Support me via Donate** [Here](https://t.me/KeoAirDropFreeNe/312/27801)
+- **Contact for work:** [Telegram](https://t.me/MeoMunDep)
+- **Join the support group:** [Join here](https://t.me/KeoAirDropFreeNe)
+- **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
+- **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
+- **Instagram:** [Follow me](https://www.instagram.com/meomundep)
+- **Tiktok:** [Follow me](https://www.tiktok.com/@meomundep)
 
 🎇Enjoy!

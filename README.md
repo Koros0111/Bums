@@ -2,7 +2,7 @@
 
 > [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
-> > > Help me with your referral [Link](https://t.me/bums/app?startapp=ref_OVMEplvN-go_ganginfo_1854937255193260033)
+>  Help me with your referral [Link](https://t.me/bums/app?startapp=ref_OVMEplvN-go_ganginfo_1854937255193260033)
 
 ## 🚀 Getting Started
 

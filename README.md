@@ -18,7 +18,7 @@ To get started with the bot, follow these steps:
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors https-proxy-agent socks-proxy-agent
+   npm i user-agents cloudscraper axios meo-forkcy-colors meo-forkcy-utils https-proxy-agent socks-proxy-agent form-data
    ```
 
 2. **Prepare Configuration Files:**
@@ -33,7 +33,6 @@ To get started with the bot, follow these steps:
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "delayEachAccount": [5, 8],
   "isSkipInvalidProxy": false,
   "howManyEnergyUpgrade": 10,
@@ -108,7 +107,7 @@ xxx...
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd bums-main/bums; node meomundep`
+> To run the bot, use the following command: `cd bums; node meomundep`
 
 ## 📌 Contact & Support
 
